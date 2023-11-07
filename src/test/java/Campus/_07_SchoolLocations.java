@@ -16,7 +16,7 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
 
-public class _04_SchoolLocations {
+public class _07_SchoolLocations {
     Faker randomMaker = new Faker();
     RequestSpecification reqSpec;
     String locationsID = "";
