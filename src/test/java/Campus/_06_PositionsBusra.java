@@ -1,7 +1,4 @@
 package Campus;
-
-
-
 import com.github.javafaker.Faker;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
@@ -173,4 +170,3 @@ public class _06_PositionsBusra {
 
 
 }
-

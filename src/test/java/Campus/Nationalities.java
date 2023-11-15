@@ -1,4 +1,4 @@
-package Campus.Nationalities;
+package Campus;
 public class Nationalities {
 
     public String id;

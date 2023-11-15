@@ -1,4 +1,4 @@
-package deniz;
+package Campus;
 
 import com.github.javafaker.Faker;
 import io.restassured.builder.RequestSpecBuilder;

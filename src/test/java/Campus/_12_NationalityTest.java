@@ -1,4 +1,4 @@
-package Campus.Nationalities;
+package Campus;
 
 import com.github.javafaker.Faker;
 import io.restassured.builder.RequestSpecBuilder;
@@ -11,7 +11,7 @@ import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 
 
-public class Nationalities_Test {
+public class _12_NationalityTest {
 
     Faker randomUreteci = new Faker();
     RequestSpecification reqSpec;
